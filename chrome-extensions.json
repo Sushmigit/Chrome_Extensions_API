@@ -1,0 +1,192 @@
+{
+  "extensions": [
+    {
+      "name": "Grammarly",
+      "category": "Productivity",
+      "description": "Check grammar, spelling, and style in your writing",
+      "link": "https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen"
+    },
+    {
+      "name": "Forest",
+      "category": "Focus",
+      "description": "Stay focused by growing a virtual tree while you work",
+      "link": "https://chromewebstore.google.com/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk"
+    },
+    {
+      "name": "Momentum",
+      "category": "Productivity",
+      "description": "Personal dashboard with to-do, weather, and inspirational quotes",
+      "link": "https://chromewebstore.google.com/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca"
+    },
+    {
+      "name": "StayFocusd",
+      "category": "Focus",
+      "description": "Limit time on distracting websites",
+      "link": "https://chromewebstore.google.com/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji"
+    },
+    {
+      "name": "Todoist",
+      "category": "Productivity",
+      "description": "Task manager to organize your day and projects",
+      "link": "https://chromewebstore.google.com/detail/todoist/jldhpllghnbhlbpcmnajkpdmadaolakh"
+    },
+    {
+      "name": "OneTab",
+      "category": "Productivity",
+      "description": "Convert all your tabs into a single list to save memory",
+      "link": "https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall"
+    },
+    {
+      "name": "Pocket",
+      "category": "Study",
+      "description": "Save articles and read them later",
+      "link": "https://chromewebstore.google.com/detail/pocket/gccdebcpenpmmnaedfmkdhpbnihcdedh"
+    },
+    {
+      "name": "Kami",
+      "category": "Study",
+      "description": "PDF and document annotation tool",
+      "link": "https://chromewebstore.google.com/detail/kami-for-google-chrome/ecnphlgnajanjnkcmbpancdjoidceilk"
+    },
+    {
+      "name": "Nimbus Mind",
+      "category": "Focus",
+      "description": "Meditation,Relax and Calm",
+      "link": "https://chromewebstore.google.com/detail/nimbusmind-meditation-rel/accebjobnljiehcaocahignlanfnfkcc"
+    },
+    {
+      "name": "Google Keep",
+      "category": "Productivity",
+      "description": "Note-taking and organization tool",
+      "link": "https://chromewebstore.google.com/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi"
+    },
+    {
+      "name": "Dark Reader",
+      "category": "Focus",
+      "description": "Dark mode for every website to reduce eye strain",
+      "link": "https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh"
+    },
+    {
+      "name": "White Noise",
+      "category": "Focus",
+      "description": "Background sounds to improve focus and productivity",
+      "link": "https://chromewebstore.google.com/detail/white-noise-for-google-ch/pbfcingikdiombagiepoidhadecbejib"
+    },
+      {
+      "name": "Loom",
+      "category": "Productivity",
+      "description": "Record quick videos of your screen and camera",
+      "link": "https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb"
+    },
+    {
+      "name": "Bitly",
+      "category": "Productivity",
+      "description": "Shorten and manage URLs quickly",
+      "link": "https://chromewebstore.google.com/detail/bitly-short-links-and-qr/iabeihobmhlgpkcgjiloemdbofjbdcic"
+    },
+    {
+      "name": "Tab Wrangler",
+      "category": "Productivity",
+      "description": "Automatically closes inactive tabs",
+      "link": "https://chromewebstore.google.com/detail/tab-wrangler/egnjhciaieeiiohknchakcodbpgjnchh"
+    },
+    {
+      "name": "Mercury",
+      "category": "Productivity",
+      "description": "Simple,fast tab finder",
+      "link": "https://chromewebstore.google.com/detail/mercury/jecgkhhikedmghacamdomkngdfdodbcb"
+    },
+    {
+      "name": "LanguageTool",
+      "category": "Productivity",
+      "description": "Advanced grammar and style checker",
+      "link": "https://chromewebstore.google.com/detail/language-tools-translate/ehaplickepiebdimlmbgecbbinldehgn"
+    },
+    {
+      "name": "WakaTime",
+      "category": "Coding",
+      "description": "Track coding activity across editors and websites",
+      "link": "https://chromewebstore.google.com/detail/wakatime-for-figma/ddoemmbdnemldilpbaofhnbhihjhbjni"
+    },
+    {
+      "name": "Octotree",
+      "category": "Coding",
+      "description": "GitHub code tree for easier navigation",
+      "link": "https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc"
+    },
+      {
+      "name": "JSON Formatter",
+      "category": "Coding",
+      "description": "Format and beautify JSON for easy reading",
+      "link": "https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa"
+      },
+    {
+      "name": "Web Developer",
+      "category": "Coding",
+      "description": "Developer tools for debugging websites",
+      "link": "https://chromewebstore.google.com/detail/web-developer-tool-for-ch/ghenifimhcdihapkceohjpgiabidpgji"
+    },
+    {
+      "name": "Wappalyzer",
+      "category": "Coding",
+      "description": "Identify tech stacks of websites",
+      "link": "https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg"
+    },
+    {
+      "name": "React Developer Tools",
+      "category": "Coding",
+      "description": "Inspect React components in real-time",
+      "link": "https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi"
+    },
+    
+    {
+      "name": "ColorZilla",
+      "category": "Productivity",
+      "description": "Advanced eyedropper, color picker, gradient generator",
+      "link": "https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp"
+    },
+      {
+      "name": "Toby",
+      "category": "Productivity",
+      "description": "Organize browser tabs and bookmarks efficiently",
+      "link": "https://chromewebstore.google.com/detail/tobby/jcalgngmggojbpmmloldmppkkangbnfj"
+   
+   },   {
+      "name": "Pushbullet",
+      "category": "Productivity",
+      "description": "Send links, files, and messages between devices",
+      "link": "https://chromewebstore.google.com/detail/push-go-for-pushbullet/dghndapbehjdbhiffbckojkhoennbofg"
+   },
+    {
+      "name": "Checker Plus for Gmail",
+      "category": "Productivity",
+      "description": "Notifications and quick access to Gmail",
+      "link": "https://chromewebstore.google.com/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj"
+    },
+    {
+      "name": "Tab Snooze",
+      "category": "Productivity",
+      "description": "Snooze tabs to come back to them later",
+      "link": "https://chromewebstore.google.com/detail/tab-snoozer-snooze-tabs-i/cbcafddpbfoficjdgepjndbaeoneldmk"
+    },
+    {
+      "name": "Kami",
+      "category": "Study",
+      "description": "PDF and document annotation tool",
+      "link": "https://chromewebstore.google.com/detail/kami-for-google-chrome/ecnphlgnajanjnkcmbpancdjoidceilk"
+    },
+    
+    {
+      "name": "Liner",
+      "category": "Study",
+      "description": "Highlight and save web pages easily",
+      "link": "https://chromewebstore.google.com/detail/liner-chatgpt-ai-copilot/bmhcbmnbenmcecpmpepghooflbehcack"
+    },
+    {
+      "name": "Evernote Web Clipper",
+      "category": "Productivity",
+      "description": "Save web content directly to your Evernote account",
+      "link": "https://chromewebstore.google.com/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc"
+    }
+  ]
+}
