@@ -16,8 +16,8 @@ app.get('/api/extensions', (req, res) => {
   res.json(extensions);
 });
 
-// Serve index.html for all other routes (optional, for SPA routing)
-app.get('*', (req, res) => {
+// SPA fallback: serve index.html for all other routes except /api
+app.get(/^\/(?!api).*$/, (req, res) => {
   res.sendFile(path.join(__dirname, 'index.html'));
 });
 
