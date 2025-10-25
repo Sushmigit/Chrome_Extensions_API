@@ -1,18 +1,27 @@
 const express = require('express');
+const path = require('path');
 const app = express();
-const port = 3000;
 
-// Serve static frontend files
-app.use(express.static(__dirname));
+// Use dynamic port provided by Azure, fallback to 3000 for local
+const port = process.env.PORT || 3000;
 
-// Import JSON data
+// Serve static frontend files from root directory
+app.use(express.static(path.join(__dirname)));
+
+// Import JSON data once at startup
 const extensions = require('./chrome-extensions.json');
 
-// API endpoint
+// API endpoint to serve JSON
 app.get('/api/extensions', (req, res) => {
   res.json(extensions);
 });
 
+// Serve index.html for all other routes (optional, for SPA routing)
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'index.html'));
+});
+
+// Start server
 app.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}`);
+  console.log(`Server running on port ${port}`);
 });
